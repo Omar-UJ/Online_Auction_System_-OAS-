@@ -1,0 +1,35 @@
+{
+  "tittle":{
+    "message":"አጫራች"
+},
+    "header": {
+      "message": "እንዴት ለአቻራችን ምን እንደሚመስል ይገባል"
+    },
+    "home": {
+      "message": "ቤት"
+    },
+    "auctionList":{
+        "message":"የጨረታ ዝርዝር"
+},
+"service":{
+    "message":"የአገልግሎት መልእክት"
+},
+"feature":{
+    "message":"ባህሪ"
+},
+"pricing":{
+    "message":"የዋጋ አሰጣጥ"
+},
+"aboutUs":{
+    "message":"ስለ እኛ"
+},
+"contactUs":{
+    "message":"አግኙን"
+},
+"register":{
+    "message":" ይመዝገቡ"
+},"language":{
+  "message":" ቋንቋ"
+}
+  }
+  

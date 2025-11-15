@@ -1,0 +1,36 @@
+# ------------------------
+# Node.js
+# ------------------------
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.env
+
+# ------------------------
+# .NET / C#
+# ------------------------
+# Build Folders
+bin/
+obj/
+
+# User-specific files
+*.user
+*.suo
+*.vscode/
+*.vs/
+*packages
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+
+# ------------------------
+# OS Files
+# ------------------------
+Thumbs.db
+.DS_Store

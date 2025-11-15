@@ -1,0 +1,34 @@
+{
+    "tittle":{
+        "message":"Acharach"
+    },
+    "header":{
+        "message":"Welcome to Acharach"
+},
+    "home":{
+        "message":"Home  "
+    },
+    "auctionList":{
+        "message":"Auction List"
+},
+"service":{
+    "message":"Service Message"
+},
+"feature":{
+    "message":"Feature"
+},
+"pricing":{
+    "message":"Pricing"
+},
+"aboutUs":{
+    "message":"About Us"
+},
+"contactUs":{
+    "message":"Contact Us"
+},
+"register":{
+    "message":" Register"
+},"language":{
+    "message":" Language"
+}
+}
