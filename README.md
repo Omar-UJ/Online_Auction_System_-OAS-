@@ -1,6 +1,6 @@
 # ACHARACH.COM - Online Auction System
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![License: UJ](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![React](https://img.shields.io/badge/Frontend-ReactJS-blue)](https://reactjs.org/)
 [![.NET](https://img.shields.io/badge/Backend-.NET%20API-green)](https://dotnet.microsoft.com/)
 [![Node.js](https://img.shields.io/badge/Backend-Node.js-lightgreen)](https://nodejs.org/)
