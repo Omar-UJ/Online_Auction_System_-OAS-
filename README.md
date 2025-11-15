@@ -51,5 +51,3 @@ This project combines a **React JS frontend**, **.NET + Node.js backend APIs**, 
 - Disk Space: 1TB  
 
 ---
-
-## Project Structure
